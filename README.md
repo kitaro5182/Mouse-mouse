@@ -53,9 +53,10 @@ This document is made by [gitfab](http://gitfab.org)
 
 なんとか形になりました。乾かして、プロトタイプ完成です
 ---
-
 #使用イメージ
 マウスにどの部分を、どのように動かすと、どのようにマウスが動くかのイメージ図です。　　　　　　　　　　　　　　
 ↓↓↓↓動画のURL↓↓↓↓
  http://youtu.be/v8fC83YAaAo
+
+![IMG_3705.JPG](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/IMG_3705.JPG)
 ---
