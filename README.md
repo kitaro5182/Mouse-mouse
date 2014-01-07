@@ -78,3 +78,7 @@ This document is made by [gitfab](http://gitfab.org)
 
 ![IMG_3705.JPG](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/IMG_3705.JPG)
 ---
+#ネタ
+
+![スクリーンショット 2014-01-07 4.00.19 PM.png](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/スクリーンショット-2014-01-07-4.00.19-PM.png)
+---
