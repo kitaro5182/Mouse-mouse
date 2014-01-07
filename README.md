@@ -33,3 +33,8 @@ This document is made by [gitfab](http://gitfab.org)
 
 マウスピースをぐつぐつお湯を煮立てた鍋に10秒ぐらいつけ込んで、熱くて、柔らかい内にパーツを押し込んで考えた形にする段階。思ったより、ゴムが思うような形にならない事に気がつく、、
 ---
+#プロトタイプ制作（３）
+
+
+![IMG_3696.jpg](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/IMG_3696.jpg)
+---
