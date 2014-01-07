@@ -20,4 +20,9 @@ This document is made by [gitfab](http://gitfab.org)
 ![IMG_3660.JPG](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/IMG_3660.JPG)
 ---
 #プロトタイプ制作
+
+![IMG_3659.JPG](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/IMG_3659.JPG)
+
+ニッパーを使って、チョキチョキ切って行きます。思ったより力がいりました、作ってる最中にニッパーの先が折れました(= =;)
+もっと簡単にプラスチックを切る方法は無いものか、、、
 ---
