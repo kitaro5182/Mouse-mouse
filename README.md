@@ -37,4 +37,13 @@ This document is made by [gitfab](http://gitfab.org)
 
 
 ![IMG_3696.jpg](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/IMG_3696.jpg)
+
+思った様な形にならないで困ってます、、、ゴム手袋を使っても、熱いお湯の中で形を整えるわけにもいかず、、、、、
+パーツの型を１個付ける間に、今まで付けた４つの形がどんどん崩れて行く、、、
+---
+#プロトタイプ制作（４）
+
+![IMG_3698.jpg](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/IMG_3698.jpg)
+
+しょうがないので、ある程度の形を整えたら、木工用ボンドを流しんで見る！！一応、くっつきました！！
 ---
