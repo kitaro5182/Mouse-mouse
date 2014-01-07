@@ -5,6 +5,9 @@ This document is made by [gitfab](http://gitfab.org)
 #イメージ図
 
 ![スクリーンショット 2013-11-26 3.28.25 PM.png](https://raw.github.com/kitaro5182/input-your-repository-name/master/gitfab/resources/スクリーンショット 2013-11-26 3.28.25 PM.png)
+「脳波はまだ早いけど、何か、オーラっぽい何かでPCを動かしたい！！」
+
+ちょっと真面目に書くと、舌で動かすマウスです。
 舌で動かすマウスです。身体を動かす事が出来ない身体障害者の方や、両手で既に作業中の方に向けたマウスです。
 ---
 #マウスの中の使用部分
@@ -65,4 +68,9 @@ This document is made by [gitfab](http://gitfab.org)
 ![スクリーンショット 2014-01-07 3.10.45 PM.png](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/スクリーンショット-2014-01-07-3.10.45-PM.png)
 
 口ならあった、口マウス
+---
+#ライセンス
+原作者のクレジットを表示し、改変した場合には元の作品と同じCCライセンスで公開するする事を主な条件に、営利目的での２次利用も許可されたCCライセンス
+
+![スクリーンショット 2014-01-07 3.39.41 PM.png](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/スクリーンショット-2014-01-07-3.39.41-PM.png)
 ---
