@@ -47,3 +47,9 @@ This document is made by [gitfab](http://gitfab.org)
 
 しょうがないので、ある程度の形を整えたら、木工用ボンドを流しんで見る！！一応、くっつきました！！
 ---
+#プロトタイプ制作（５）
+
+![IMG_3699.JPG](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/IMG_3699.JPG)
+
+なんとか形になりました。乾かして、プロトタイプ完成です
+---
