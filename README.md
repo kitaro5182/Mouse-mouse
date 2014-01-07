@@ -11,7 +11,7 @@ This document is made by [gitfab](http://gitfab.org)
 
 ![スクリーンショット 2013-12-24 3.06.09 PM.png](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/スクリーンショット-2013-12-24-3.06.09-PM.png)
 ---
-#プロトタイプ制作（１）
+#その他に使用する物
 
 ![IMG_3658.jpg](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/IMG_3658.jpg)
 
