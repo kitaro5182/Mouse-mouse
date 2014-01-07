@@ -16,4 +16,8 @@ This document is made by [gitfab](http://gitfab.org)
 ![IMG_3658.jpg](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/IMG_3658.jpg)
 
 元には、アメフト用の簡易マウスピースを使用します。
+
+![IMG_3660.JPG](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/IMG_3660.JPG)
+---
+#プロトタイプ制作
 ---
