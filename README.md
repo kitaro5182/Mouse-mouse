@@ -78,7 +78,10 @@ This document is made by [gitfab](http://gitfab.org)
 
 ![IMG_3705.JPG](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/IMG_3705.JPG)
 ---
-#ネタ
+#使用状態
 
-![スクリーンショット 2014-01-07 4.00.19 PM.png](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/スクリーンショット-2014-01-07-4.00.19-PM.png)
+
+![スクリーンショット 2014-01-27 11.46.34 PM.png](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/スクリーンショット-2014-01-27-11.46.34-PM.png)
+
+ここで、欠点が発覚、デザイン性があまりにも悪い、、、、改良版は、口におさまる事が目標
 ---
