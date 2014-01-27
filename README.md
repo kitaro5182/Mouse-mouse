@@ -74,14 +74,14 @@ This document is made by [gitfab](http://gitfab.org)
 
 ![スクリーンショット 2014-01-07 3.39.41 PM.png](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/スクリーンショット-2014-01-07-3.39.41-PM.png)
 ---
-#トップ写真用
-
-![IMG_3705.JPG](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/IMG_3705.JPG)
----
 #使用状態
 
 
 ![スクリーンショット 2014-01-27 11.46.34 PM.png](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/スクリーンショット-2014-01-27-11.46.34-PM.png)
 
 ここで、欠点が発覚、デザイン性があまりにも悪い、、、、改良版は、口におさまる事が目標
+---
+#トップ写真用
+
+![IMG_3705.JPG](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/IMG_3705.JPG)
 ---
