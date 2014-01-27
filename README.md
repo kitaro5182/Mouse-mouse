@@ -67,7 +67,7 @@ This document is made by [gitfab](http://gitfab.org)
 
 ![スクリーンショット 2014-01-07 3.10.45 PM.png](https://raw.github.com/kitaro5182/Mouse-mouse/Mouse-in-the-mouth/gitfab/resources/スクリーンショット-2014-01-07-3.10.45-PM.png)
 
-口ならあった、口マウス
+口マウスを関連商品として発見。ただ、完全に医療用であり、一般向けではない事がわかる。
 ---
 #ライセンス
 原作者のクレジットを表示し、改変した場合には元の作品と同じCCライセンスで公開するする事を主な条件に、営利目的での２次利用も許可されたCCライセンス
